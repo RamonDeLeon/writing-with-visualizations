@@ -1,5 +1,8 @@
 # lesson-template
 
+
+
+firts id say the doc is changed and the intergity of its creators are gracious.
 Learn-Static Lesson Template is a minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
 The sidebar nav supports pages nested into sections to help organize your lesson content. 
 The template provides Liquid includes to simplify adding Bootstrap components to your pages.
